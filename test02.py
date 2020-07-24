@@ -1,2 +1,2 @@
-dc = {1:1,2:2}
-print(getattr(2,dc,0))
+for i in set([1,2,3]):
+    print(i)
